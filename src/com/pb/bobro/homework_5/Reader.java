@@ -5,11 +5,11 @@ import java.util.Date;
 
 public class Reader {
 
- String name;
- String number;
- String fakultet;
- String tel;
- String date;
+public String name;
+ public String number;
+ public String fakultet;
+ public String tel;
+ public String date;
 
 String getreader(){
  return  "читатель" + name +"номер билета"+ number+ "факултет"+ fakultet +"телефон"+ tel+"дата" +date;

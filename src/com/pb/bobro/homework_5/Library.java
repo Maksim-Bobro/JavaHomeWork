@@ -18,9 +18,7 @@ public class Library {
         System.out.println(reader1.getreader());
         System.out.println(reader2.getreader());
         System.out.println(reader3.getreader());
-
-
-
+        
 
 
 }
